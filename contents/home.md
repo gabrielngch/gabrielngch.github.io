@@ -4,4 +4,4 @@ I am a mathematics graduate. I am interested in arithmetic geometry, representat
 2019.09 - 2023.06, Mathematics, Imperial College London.
 
 #### Research Interests
-Symplectic representation theory, Langlands programme.
+Symplectic representation theory, Langlands program.
